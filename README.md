@@ -18,3 +18,6 @@
 
 [HeapSorting](./homework/heapSorting.pde)
 ![Alt homework6](./homework/heapSort.png)
+
+[SortAnimation](./homework/SortAnimation.pde)
+![Alt homework7](./homework/SortAnimation.gif)
